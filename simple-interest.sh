@@ -3,6 +3,8 @@
    # annual rate of interest and time period in years.
    # Do not use this in production. Sample purpose only.
    # Author: Umang Goel
+   # Additional Authors:
+   # UmangItcInfotech
    # Input:
    # p, principal amount
    # t, time period in years
